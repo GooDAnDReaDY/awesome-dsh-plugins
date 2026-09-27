@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-09-26",
+  "checked": "2026-09-27",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 392,
+  "count": 393,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -1149,6 +1149,12 @@
       "npm": "dsh-design-skills",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "bruc3van/dsh-desktop-safe-market",
+      "npm": "dsh-desktop-safe-market",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-09-27"
     },
     {
       "repo": "CAOGGL/dsh-ding",
