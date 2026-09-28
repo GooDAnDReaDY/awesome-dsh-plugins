@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-28",
   "rejected": [
     {
       "repo": "0231071/MyDSH-Orca",
@@ -3851,6 +3851,16 @@
       "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no top-level .md carrying skill frontmatter",
       "date": "2026-09-01",
       "recheckAfter": "2026-09-22"
+    },
+    {
+      "repo": "GooDAnDReaDY/dsh-fal-image-gen",
+      "reason": "Publisher-requested permanent delisting; deprecated and superseded by GooDAnDReaDY/dsh-image-gen.",
+      "date": "2026-09-28"
+    },
+    {
+      "repo": "GooDAnDReaDY/dsh-im-hub-media",
+      "reason": "Publisher-requested permanent delisting; project frozen.",
+      "date": "2026-09-28"
     },
     {
       "repo": "google-deepseek/deepseek-cli",
