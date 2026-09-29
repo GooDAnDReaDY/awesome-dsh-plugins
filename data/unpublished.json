@@ -6,7 +6,7 @@
   ],
   "checked": "2026-09-29",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 750,
+  "count": 749,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -1632,12 +1632,6 @@
       "npm": "dsh-equip-engine",
       "why": "no such package",
       "since": "2026-08-21"
-    },
-    {
-      "repo": "trentswd/dsh-escalation-review",
-      "npm": "dsh-escalation-review",
-      "why": "published by nobody — the package states no repository and the repo does not claim the name",
-      "since": "2026-09-29"
     },
     {
       "repo": "ailoushu666/dsh-feishu-bridge",
