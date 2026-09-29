@@ -6,7 +6,7 @@
   ],
   "checked": "2026-09-29",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 746,
+  "count": 750,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -26,6 +26,13 @@
       "npm": "@anarkhgatsby/deepseek-harness-insights",
       "why": "published by mapan0424/deepseek-harness-plugins",
       "since": "2026-09-09"
+    },
+    {
+      "repo": "AQian0/dsh-desktop",
+      "path": "plugin",
+      "npm": "@aqian0/dsh-desktop-plugin",
+      "why": "no such package",
+      "since": "2026-09-29"
     },
     {
       "repo": "cyj0920/dsh-jlink-plugin",
@@ -590,6 +597,12 @@
       "npm": "@momojie-s/dsh-subagent-model",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "Nay-1/dsh-skill-manage",
+      "npm": "@nay-1/dsh-skill-manage",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-09-29"
     },
     {
       "repo": "Neplich/dsh_plugin",
@@ -1621,6 +1634,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "trentswd/dsh-escalation-review",
+      "npm": "dsh-escalation-review",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-09-29"
+    },
+    {
       "repo": "ailoushu666/dsh-feishu-bridge",
       "npm": "dsh-feishu-bridge",
       "why": "5 listed repos declare this name and the package states no repository",
@@ -2212,6 +2231,12 @@
       "repo": "iceice666/dsh-locale-zh-tw",
       "npm": "dsh-locale-zh-tw",
       "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-09-29"
+    },
+    {
+      "repo": "erdholion/dsh-loop-guard",
+      "npm": "dsh-loop-guard",
+      "why": "published by carbide4826/dsh-loop-guard",
       "since": "2026-09-29"
     },
     {
