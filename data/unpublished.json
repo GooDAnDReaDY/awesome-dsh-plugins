@@ -4,7 +4,7 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-09-29",
+  "checked": "2026-09-30",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
   "count": 749,
   "packages": [
@@ -713,12 +713,6 @@
     {
       "repo": "xsuas/dsh-balance-display",
       "npm": "@xsuas/dsh-balance-display",
-      "why": "no such package",
-      "since": "2026-08-21"
-    },
-    {
-      "repo": "yejiming/dsh-museai-tavern",
-      "npm": "@yejiming/dsh-museai-tavern",
       "why": "no such package",
       "since": "2026-08-21"
     },
@@ -2232,6 +2226,12 @@
       "npm": "dsh-loop-guard",
       "why": "published by carbide4826/dsh-loop-guard",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "lucagiftzek/dsh-mail",
+      "npm": "dsh-mail",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-09-30"
     },
     {
       "repo": "kairoz9/dsh-mcp-admin",
