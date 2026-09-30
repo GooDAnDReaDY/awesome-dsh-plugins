@@ -6,7 +6,7 @@
   ],
   "checked": "2026-09-30",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 753,
+  "count": 756,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -477,18 +477,6 @@
       "since": "2026-08-24"
     },
     {
-      "repo": "kaijia323/dsh-sidebar",
-      "npm": "@kaijia/dsh-sidebar",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "kaijia323/dsh-ymc-sidebar",
-      "npm": "@kaijia/dsh-sidebar",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
       "repo": "Khorsheed/dsh-ankh-guard",
       "npm": "@khorsheed/dsh-ankh-guard",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -717,6 +705,13 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "Xuxchloris/Alex",
+      "path": "packages/dsh-sdr",
+      "npm": "@xuxchloris/dsh-sdr",
+      "why": "published by xuxchloris/deepseek-harness-sdr-plugin",
+      "since": "2026-09-30"
+    },
+    {
       "repo": "YOGEMOW/DeepSeek_Prism",
       "path": "dsh-plugin",
       "npm": "@yogemow/dsh-prism",
@@ -792,26 +787,26 @@
     {
       "repo": "ls-cool-123/dsh-account-balance",
       "npm": "dsh-account-balance",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "305037991x-pixel/dsh-balance",
-      "npm": "dsh-account-balance",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "305037991x-pixel/dsh-account-balance",
       "npm": "dsh-account-balance",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "ABccgh/dsh-account-balance",
       "npm": "dsh-account-balance",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
+    },
+    {
+      "repo": "JimChen-g/dsh-action-outbox",
+      "npm": "dsh-action-outbox",
+      "why": "published by jimchengchina/dsh-action-outbox",
+      "since": "2026-09-30"
     },
     {
       "repo": "glangzh/dsh-advisor",
@@ -1291,18 +1286,6 @@
       "since": "2026-08-21"
     },
     {
-      "repo": "Aealen/dsh-worktree",
-      "npm": "dsh-coding-workspace",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "Aealen/dsh-coding-workspace",
-      "npm": "dsh-coding-workspace",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
       "repo": "kjx-talesofai/dsh-cohub-board",
       "npm": "dsh-cohub-board",
       "why": "no such package",
@@ -1610,6 +1593,12 @@
       "since": "2026-09-29"
     },
     {
+      "repo": "huaxiren6/DSH-EmailReader",
+      "npm": "dsh-email-reader",
+      "why": "published by huaxiren6/dsh-email-reader",
+      "since": "2026-09-30"
+    },
+    {
       "repo": "Yuki-takuya-kun/dsh-engine-switch",
       "npm": "dsh-engine-switch",
       "why": "no such package",
@@ -1756,6 +1745,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "JimChen-g/dsh-frontier-repro",
+      "npm": "dsh-frontier-repro",
+      "why": "published by jimchengchina/dsh-frontier-repro",
+      "since": "2026-09-30"
+    },
+    {
       "repo": "cershuang/dsh-fschannel",
       "npm": "dsh-fschannel",
       "why": "no such package",
@@ -1887,6 +1882,12 @@
       "npm": "dsh-hello-plugin",
       "why": "3 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "HerTa-st/Herta-dsh",
+      "npm": "dsh-herta",
+      "why": "published by yunmengyuan/herta-dsh",
+      "since": "2026-09-30"
     },
     {
       "repo": "tianyaZTY/dsh-hot-plugin-host",
@@ -2208,6 +2209,24 @@
       "npm": "dsh-llm-oauth",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "imdeniil/dsh-locale-ru",
+      "npm": "dsh-locale-ru",
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
+    },
+    {
+      "repo": "execrat1on/dsh-locale-ru",
+      "npm": "dsh-locale-ru",
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
+    },
+    {
+      "repo": "vowa-antilamer/dsh-locale-ru",
+      "npm": "dsh-locale-ru",
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "wangsan71/dsh-locale-zh-tw",
@@ -2607,6 +2626,12 @@
       "since": "2026-09-29"
     },
     {
+      "repo": "open-dsh-plugins/dsh-open-in-app",
+      "npm": "dsh-open-in-app",
+      "why": "published by trewvip-arch/dsh-open-in-app",
+      "since": "2026-09-30"
+    },
+    {
       "repo": "bufeibufei/dsh-openai-codex",
       "npm": "dsh-openai-codex",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -2844,40 +2869,34 @@
       "since": "2026-09-29"
     },
     {
-      "repo": "zhang66633/dsh-plugin-installer",
+      "repo": "zhang66633/.dsh-plugin-installer",
       "npm": "dsh-plugin-installer",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "kun2-5code/dsh-plugin-installer",
       "npm": "dsh-plugin-installer",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "Quophic/dsh-plugin-installer",
       "npm": "dsh-plugin-installer",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "showlibia/dsh-plugin-installer",
       "npm": "dsh-plugin-installer",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "Toukaiteio/dsh-plugin-installer",
       "npm": "dsh-plugin-installer",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "zhang66633/.dsh-plugin-installer",
-      "npm": "dsh-plugin-installer",
-      "why": "6 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "bradeGithub/DSH-Plugins-Marketplace",
@@ -2933,6 +2952,13 @@
       "npm": "dsh-plugin-radar",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "reactive-resume/reactive-resume",
+      "path": "packages/dsh-plugin",
+      "npm": "dsh-plugin-reactive-resume",
+      "why": "published by amruthpillai/reactive-resume",
+      "since": "2026-09-30"
     },
     {
       "repo": "puremapping/dsh-plugin-reading-pipeline",
@@ -3259,6 +3285,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "huaxiren6/DSH-QrPairing",
+      "npm": "dsh-remote-qr-button",
+      "why": "published by huaxiren6/dsh-remote-qr-button",
+      "since": "2026-09-30"
+    },
+    {
       "repo": "NaNQiQ/deepseek-harness-remote-ssh",
       "npm": "dsh-remote-ssh",
       "why": "5 listed repos declare this name and the package states no repository",
@@ -3471,22 +3503,22 @@
       "since": "2026-09-29"
     },
     {
-      "repo": "KarlOfLaw/dsh-side-chat",
-      "npm": "dsh-side-chat",
-      "why": "3 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "2031814001yuyue-tech/dsh-side-chat",
-      "npm": "dsh-side-chat",
-      "why": "3 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "repo": "Yvesgao/dsh-shortcut-creator",
+      "npm": "dsh-shortcut-creator",
+      "why": "published by yvesgao/dsh-desktop-launcher",
+      "since": "2026-09-30"
     },
     {
       "repo": "xlennart/dsh-side-chat",
       "npm": "dsh-side-chat",
-      "why": "3 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
+    },
+    {
+      "repo": "2031814001yuyue-tech/dsh-side-chat",
+      "npm": "dsh-side-chat",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "ishuowang/dsh-sideband",
@@ -3515,32 +3547,26 @@
     {
       "repo": "yustillrain/dsh-plugin-tool-repository",
       "npm": "dsh-skill-browser",
-      "why": "5 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "charleswin7/dsh-skill-browser",
       "npm": "dsh-skill-browser",
-      "why": "5 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "yustillrain/dsh-skill-browser",
-      "npm": "dsh-skill-browser",
-      "why": "5 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "young-yyj/dsh-skill-browser",
       "npm": "dsh-skill-browser",
-      "why": "5 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "loyalchiiina/dsh-skill-browser",
       "npm": "dsh-skill-browser",
-      "why": "5 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "AKS1st/dsh-skill-manager",
@@ -3724,6 +3750,12 @@
       "since": "2026-09-29"
     },
     {
+      "repo": "huaxiren6/DSH-SmsWebhook",
+      "npm": "dsh-sms-webhook",
+      "why": "published by huaxiren6/dsh-sms-webhook",
+      "since": "2026-09-30"
+    },
+    {
       "repo": "DfsyJian/dsh-snapshot",
       "npm": "dsh-snapshot",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -3841,26 +3873,20 @@
     {
       "repo": "hi-wenw/dsh-telegram-channel",
       "npm": "dsh-telegram-channel",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "todayer/todayer-dsh-telegram-bridge",
       "npm": "dsh-telegram-channel",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "todayer/todayer-dsh-telegram-channel",
-      "npm": "dsh-telegram-channel",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "zhang0098/dsh-telegram-channel",
       "npm": "dsh-telegram-channel",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "ZgblKylin/dsh-terminal",
@@ -3897,18 +3923,6 @@
       "npm": "dsh-timeline",
       "why": "published by houyanchao/dsh-timeline",
       "since": "2026-08-21"
-    },
-    {
-      "repo": "Zyc20010326/dsh-token-budget",
-      "npm": "dsh-token-budget",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "lazybot114514/dsh-token-budget",
-      "npm": "dsh-token-budget",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
     },
     {
       "repo": "spoon-man569/dsh-token-price",
@@ -4521,6 +4535,12 @@
       "npm": "muretai-dsh-skill",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "240xu/verdict-engine",
+      "npm": "nomos-skill",
+      "why": "published by 240xu/tech-lead-skill",
+      "since": "2026-09-30"
     },
     {
       "repo": "YYTbit/oh-my-dsh",
