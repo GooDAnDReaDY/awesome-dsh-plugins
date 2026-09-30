@@ -6,7 +6,7 @@
   ],
   "checked": "2026-09-30",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 749,
+  "count": 753,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -844,6 +844,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "kaka-in-home/dsh-agent-teams-meta",
+      "npm": "dsh-agent-teams-meta",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-09-30"
+    },
+    {
       "repo": "railgun0325/dsh-phone",
       "path": "plugin",
       "npm": "dsh-android-control",
@@ -1003,12 +1009,6 @@
       "since": "2026-09-29"
     },
     {
-      "repo": "gst20060726/dsh-auto-translate",
-      "npm": "dsh-auto-translate",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
       "repo": "Whning0513/awesome-deepseek-skills",
       "npm": "dsh-awesome-deepseek-skills",
       "why": "no such package",
@@ -1137,12 +1137,6 @@
       "since": "2026-09-29"
     },
     {
-      "repo": "ChenyuHeee/dsh-browser-playwright",
-      "npm": "dsh-browser-playwright",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
       "repo": "miqian-nomad/dsh-browser-playwright-codex",
       "npm": "dsh-browser-playwright",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -1228,6 +1222,12 @@
       "npm": "dsh-clash-proxy",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "x5427876/dsh-claude-subscription",
+      "npm": "dsh-claude-subscription",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-09-30"
     },
     {
       "repo": "lcgash/dsh-cli-mode",
@@ -1526,12 +1526,6 @@
       "since": "2026-09-29"
     },
     {
-      "repo": "CAOGGL/dsh-ding",
-      "npm": "dsh-ding",
-      "why": "no such package",
-      "since": "2026-08-21"
-    },
-    {
       "repo": "sublatesublate-design/dsh-doctor-windows",
       "npm": "dsh-doctor-windows",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -1660,27 +1654,33 @@
     {
       "repo": "dannyvan/dsh-file-drop",
       "npm": "dsh-file-drop",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "Nafiygond/dsh-file-drop",
       "npm": "dsh-file-drop",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "tianleyitian/dsh-file-drop",
       "npm": "dsh-file-drop",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "margbug01/dsh-ma-plugins",
       "path": "dsh-file-drop",
       "npm": "dsh-file-drop",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
+    },
+    {
+      "repo": "xuechengzou/dsh-file-drop",
+      "npm": "dsh-file-drop",
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "sunkeycn/dsh-desktop",
@@ -3261,26 +3261,32 @@
     {
       "repo": "NaNQiQ/deepseek-harness-remote-ssh",
       "npm": "dsh-remote-ssh",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "Yan-Zero/dsh-remote-ssh",
       "npm": "dsh-remote-ssh",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "aijunjiang/dsh-remote-ssh",
       "npm": "dsh-remote-ssh",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "173787247/dsh-remote-ssh",
       "npm": "dsh-remote-ssh",
-      "why": "4 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
+    },
+    {
+      "repo": "zzaccount/dsh-remoteSSH",
+      "npm": "dsh-remote-ssh",
+      "why": "5 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "lmst2/dsh-rename",
@@ -3539,123 +3545,129 @@
     {
       "repo": "AKS1st/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "CLAPEILL/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "JimmyJin2006/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "LIU20030725/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "mhdfy1988/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "Mvyvn/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "my-dsh-plugin/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "S-AN-Shu/dsh-skill-manager",
       "path": "packages/plugin",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "SLin-code/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "sulfide2085/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "Thomas-key/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "tuogusa/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "welsione/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "xingyingyuzhui/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "xiyunSacire/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "Yi-Wei-H/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "ZzzzzzzLL/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "SiriusWJ/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "VCPr0j3k7/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "xinshang777/dsh-skill-manager",
       "npm": "dsh-skill-manager",
-      "why": "20 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
+    },
+    {
+      "repo": "Nay-1/dsh-skill-manager",
+      "npm": "dsh-skill-manager",
+      "why": "21 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "YTxue/dsh-skill-manager-ytxue",
@@ -4228,14 +4240,20 @@
     {
       "repo": "Roger-Yang-CN/dsh-voice-alert",
       "npm": "dsh-voice-alert",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "loyalchiiina/dsh-voice-alert",
       "npm": "dsh-voice-alert",
-      "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
+    },
+    {
+      "repo": "BUGLAN/dsh-voice-alert",
+      "npm": "dsh-voice-alert",
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-09-30"
     },
     {
       "repo": "Zachary7456/dsh-voice-mic",
@@ -4393,6 +4411,12 @@
       "npm": "dsh-wsl-tray",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "6Mikao9/dsh-wsl-workspace",
+      "npm": "dsh-wsl-workspace",
+      "why": "published by dsh-wsl-workspace-maintainers/dsh-wsl-workspace",
+      "since": "2026-09-30"
     },
     {
       "repo": "xuboboo/dsh-xiaohongshu-viral-note",
