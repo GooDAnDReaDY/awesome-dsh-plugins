@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-30",
   "rejected": [
     {
       "repo": "0231071/MyDSH-Orca",
@@ -3853,6 +3853,11 @@
       "recheckAfter": "2026-09-22"
     },
     {
+      "repo": "GooDAnDReaDY/dsh-agent-orchestrator",
+      "reason": "Publisher-requested permanent delisting; archived and deprecated after orchestration became built into DSH.",
+      "date": "2026-09-30"
+    },
+    {
       "repo": "GooDAnDReaDY/dsh-fal-image-gen",
       "reason": "Publisher-requested permanent delisting; deprecated and superseded by GooDAnDReaDY/dsh-image-gen.",
       "date": "2026-09-28"
@@ -3861,6 +3866,11 @@
       "repo": "GooDAnDReaDY/dsh-im-hub-media",
       "reason": "Publisher-requested permanent delisting; project frozen.",
       "date": "2026-09-28"
+    },
+    {
+      "repo": "GooDAnDReaDY/dsh-model-search",
+      "reason": "Publisher-requested permanent delisting.",
+      "date": "2026-09-30"
     },
     {
       "repo": "google-deepseek/deepseek-cli",
